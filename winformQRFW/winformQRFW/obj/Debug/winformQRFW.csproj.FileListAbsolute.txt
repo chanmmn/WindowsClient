@@ -1,0 +1,16 @@
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\winformQRFW.exe.config
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\winformQRFW.exe
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\winformQRFW.pdb
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\zxing.dll
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\zxing.presentation.dll
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\zxing.xml
+C:\test\other\Training\winformQRFW\winformQRFW\bin\Debug\zxing.presentation.xml
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.csproj.AssemblyReference.cache
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.csproj.SuggestedBindingRedirects.cache
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.Form1.resources
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.Properties.Resources.resources
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.csproj.GenerateResource.cache
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.csproj.CoreCompileInputs.cache
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.csproj.CopyComplete
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.exe
+C:\test\other\Training\winformQRFW\winformQRFW\obj\Debug\winformQRFW.pdb
