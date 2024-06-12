@@ -1,0 +1,16 @@
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\bin\Debug\net8.0-windows\WinAppComboBox.exe
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\bin\Debug\net8.0-windows\WinAppComboBox.deps.json
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\bin\Debug\net8.0-windows\WinAppComboBox.runtimeconfig.json
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\bin\Debug\net8.0-windows\WinAppComboBox.dll
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\bin\Debug\net8.0-windows\WinAppComboBox.pdb
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.Form1.resources
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.csproj.GenerateResource.cache
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.AssemblyInfoInputs.cache
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.AssemblyInfo.cs
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.csproj.CoreCompileInputs.cache
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.dll
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\refint\WinAppComboBox.dll
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.pdb
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\WinAppComboBox.genruntimeconfig.cache
+C:\test\other\2024\WinAppComboBox\WinAppComboBox\obj\Debug\net8.0-windows\ref\WinAppComboBox.dll

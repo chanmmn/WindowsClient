@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\other\\2024\\WinAppComboBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|c:\\test\\other\\2024\\winappcombobox\\winappcombobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|solutionrelative:winappcombobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|C:\\test\\other\\2024\\WinAppComboBox\\winappcombobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|solutionrelative:winappcombobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|c:\\test\\other\\2024\\winappcombobox\\winappcombobox\\bankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|solutionrelative:winappcombobox\\bankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|c:\\test\\other\\2024\\winappcombobox\\winappcombobox\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3454B152-6BAA-4F79-856F-C7398037EF3B}|WinAppComboBox\\WinAppComboBox.csproj|solutionrelative:winappcombobox\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankData.cs",
+              "DocumentMoniker": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\BankData.cs",
+              "RelativeDocumentMoniker": "WinAppComboBox\\BankData.cs",
+              "ToolTip": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\BankData.cs",
+              "RelativeToolTip": "WinAppComboBox\\BankData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:53:33.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\Bank.cs",
+              "RelativeDocumentMoniker": "WinAppComboBox\\Bank.cs",
+              "ToolTip": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\Bank.cs",
+              "RelativeToolTip": "WinAppComboBox\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:03:36.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppComboBox\\Form1.cs",
+              "ToolTip": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\Form1.cs",
+              "RelativeToolTip": "WinAppComboBox\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:29:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppComboBox\\Form1.cs",
+              "ToolTip": "C:\\test\\other\\2024\\WinAppComboBox\\WinAppComboBox\\Form1.cs [Design]",
+              "RelativeToolTip": "WinAppComboBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:45:04.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
